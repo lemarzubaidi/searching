@@ -1,1 +1,2 @@
 # searching
+linear search
